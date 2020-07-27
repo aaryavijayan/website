@@ -1,0 +1,178 @@
+.logo{
+    border-radius: 50%;
+}
+.padding1{
+    padding-left:259px;
+}
+.padding2{
+    padding-left: 17px;
+    padding-right: 17px;
+}
+.padding3{
+    padding-left:250px;
+}
+.padding4{
+    padding-left: 10px;
+    padding-right: 17px;
+
+}
+.icon-bar {
+    width: 100%;
+    
+    overflow: auto;
+  }
+  .font{
+      font-size: 10px;
+  }
+  .icon-bar a {
+   
+    color: white;
+    font-size: 30px;
+  }
+ 
+ .box-a{
+     background-color:rgb(180, 179, 179);
+     margin-top: 10px;
+     padding: 30px;
+     border: 3px lightgray;
+ }
+ .color{
+     color: rgb(61, 37, 37);
+ }
+ .color2{
+    color: rgb(121, 112, 112);
+ }
+ .color3{
+     background-color: rgb(17, 17, 17);
+ }
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+   
+  }
+  .color4{
+     background-color: rgb(153, 146, 146);
+     color: black;
+   
+  }
+ 
+.color5{
+    color: black;
+}
+.padd{
+    padding-top: 7px;
+}
+.bg{
+    background: rgb(250, 250, 250);
+}
+.padding5{
+    padding-top: 30px;
+}
+.box-b{
+    background-color: lightgray;
+    margin-top: 10px;
+    padding: 30px;
+    border: 3px lightgray;
+}
+.padding6{
+    padding-left: 400px;
+}
+.box-c{
+    background-color: lightgray;
+   
+    border: 3px lightgray;
+}
+.padding7{
+    padding-top: 70px;
+}
+
+.padding8{
+	padding-left: 10px;
+}
+.button1 {
+	border-radius: 40px;
+	border: 1px solid white;
+	background-color: black;
+	color: #FFFFFF;
+	font-size: 10px;
+    font-weight: bold;
+    padding: 12px 14px;
+	letter-spacing: 1px;
+    text-transform: uppercase;
+   
+}
+
+.button3 {
+    border-radius: 40px;
+    border: 1px solid white;
+    background-color: black;
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 12px 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 15px 0;
+    
+}
+.color6{
+    color:black;
+}
+.color7{
+    background-color:rgb(22, 19, 19);
+}
+.footer1 {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:black;
+    
+ }
+ .box-b{
+
+    margin-top: 10px;
+    padding: 30px;
+    border: 3px  #2d00f7;
+}
+.but1{
+	border-radius: 40px;
+	border: 1px solid whitesmoke;
+	background-color: 0#FFFFFF;
+	color:black;
+	font-size: 10px;
+    font-weight: bold;
+   
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.bg2{
+    
+    background-color: grey;
+}
+
+.but2{
+	border-radius: 40px;
+	border: 1px solid whitesmoke;
+	background-color: 0#FFFFFF;
+	color:black;
+	font-size: 20px;
+    font-weight: bold;
+	letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+  }
+  .avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  .card-body{
+    background-color:rgb(180, 179, 179);
+  }
